@@ -78,11 +78,3 @@ Special thanks to [currencyfreaks.com](https://currencyfreaks.com/) for providin
 
 ---
 
-Feel free to open an issue or submit a pull request if you have suggestions for improvements.
-```
-
-Now you can:
-1. Copy this entire formatted section.
-2. Paste it directly into your `README.md` file on GitHub or in your local repository.
-
-This should keep the formatting consistent and readable!
