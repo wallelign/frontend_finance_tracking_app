@@ -68,10 +68,6 @@ The application will be available at `http://localhost:3000`.
 - [Vite](https://vitejs.dev/)
 - [Tailwind CSS](https://tailwindcss.com/)
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 Special thanks to [currencyfreaks.com](https://currencyfreaks.com/) for providing the currency conversion API.
