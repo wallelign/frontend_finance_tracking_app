@@ -53,7 +53,7 @@ Use the following command to start the development server:
 npm run dev
 ```
 
-The application will be available at `http://localhost:3000`.
+The application will be available at `http://localhost:5174/`.
 
 ## Usage
 
